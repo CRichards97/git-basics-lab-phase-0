@@ -271,3 +271,5 @@ work!
 
 [github]: https://github.com/
 [pr]: https://help.github.com/en/articles/about-pull-requests
+# my-remote-repo
+# my-repository-example
